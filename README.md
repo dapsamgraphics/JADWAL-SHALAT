@@ -17,7 +17,7 @@ Jadwal Shalat berdasarkan nama kota menggunakan API dari [MyQuran](https://myqur
 # Cara menjalankan nya:
 ~ git clone https://github.com/dapsamgraphics/JADWAL-SHALAT/
 
-~ cd JADWAL-SHALAT/
+~ cd JADWAL-SHALAT
 
 ~ pip install -r requirements.txt
 
