@@ -12,7 +12,7 @@ Jadwal Shalat berdasarkan nama kota menggunakan API dari [MyQuran](https://myqur
    - Deskripsi: Mengambil jadwal sholat untuk kota yang ditentukan pada tanggal tertentu.
 
 ## Fitur
-- Mencari ID kota berdasarkan nama kota yang dimasukkan oleh pengguna.
+- Menampilkan Jadwal Shalat berdasarkan nama kota yang dimasukkan oleh pengguna. "nama kota bukan provinsi" bukan provinsi
 
 # Cara menjalankan nya:
 ~ git clone https://github.com/dapsamgraphics/JADWAL-SHALAT/
